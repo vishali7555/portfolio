@@ -288,9 +288,9 @@ li :hover
 {
     width: 212px;
     margin-left: 520px ;
-    margin-top: -30px;
-    height: 0px;
-    border-top: 5px solid red; 
+    margin-top: 5px;
+    border-top: 5px solid red;
+    display: inline-block;
 }
 
 .port1
