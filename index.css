@@ -9,7 +9,7 @@ body{
     
     background-color: whitesmoke;
     width: 1400px;
-    height: 4300px;
+    height: 4400px;
     margin-top:-8px;
     margin-left: 60px;
     margin-right: 60px;
@@ -288,9 +288,9 @@ li :hover
 {
     width: 212px;
     margin-left: 520px ;
-    margin-top: 10px;
-    border-top: 5px solid red;
-    display: inline-block;
+    margin-top: -30px;
+    height: 0px;
+    border-top: 5px solid red; 
 }
 
 .port1
